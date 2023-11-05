@@ -1,0 +1,41 @@
+#header {
+  background-color: burlywood;
+  text-align: center;
+  margin: 2px, 50px, 15px, 50px;
+  padding: bottom 20px;
+}
+body {
+  background-color: #f5fffa;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  width: 100%;
+}
+h1 {
+  text-align: center;
+  color: blue;
+}
+.center {
+  text-align: center;
+  width: 50%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.gambar {
+  width: 35%;
+}
+.isi span {
+  color: blue;
+}
+.koleksi img {
+  width: 23%;
+}
+.promo {
+  text-align: center;
+  border: 1px dotted;
+  background-color: lightcoral;
+  color: navy;
+  display: block;
+
+  margin: 0 auto;
+}
